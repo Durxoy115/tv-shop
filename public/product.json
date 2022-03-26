@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "name": "UHD 4K Smart TV AU7000",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ua40h5100arxtw/gallery/levant-h5100-40-inch-full-hd-tv-ua40h5100arxtw-ua40h5100arxtw-457092016?$684_547_PNG$",
+    "price": "32000"
+  },
+
+  {
+    "id": "2",
+    "name": "Crystal UHD 4K Smart TV TU8500",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ua65au8100uxtw/gallery/levant-crystal-uhd-au8000-376922-ua65au8100uxtw-409718081?$684_547_PNG$",
+    "price": "52000"
+  },
+
+  {
+    "id": "3",
+    "name": "Crystal UHD 4K Smart TV TU8000",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ua55au9000uxtw/gallery/levant-crystal-uhd-au9000-ua55au9000uxtw-409684884?$684_547_PNG$",
+    "price": "65000"
+  },
+
+  {
+    "id": "4",
+    "name": "QLED 8K Smart TV Q800T",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/ua55au9000uxtw/gallery/levant-crystal-uhd-au9000-ua55au9000uxtw-409684884?$684_547_PNG$",
+    "price": "70000"
+  },
+
+  {
+    "id": "5",
+    "name": "QLED 8K Smart TV Q950TS",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/qa65q80aauxtw/gallery/levant-qled-q80a-qa65q80aauxtw-379601211?$684_547_PNG$",
+    "price": "82000"
+  },
+
+  {
+    "id": "6",
+    "name": "Crystal UHD 4K Smart TV TU8300",
+    "image": "https://images.samsung.com/is/image/samsung/levant-qled8k-q800t-qa82q800tauxtw-frontsilver-229830071?$684_547_PNG$",
+    "price": "85000"
+  },
+
+  {
+    "id": "7",
+    "name": "Crystal UHD 4K Smart TV AU9000",
+    "image": "https://images.samsung.com/is/image/samsung/levant-fhd-t5300-ua43t5300auxtw-frontblack-229857917?$684_547_PNG$",
+    "price": "90000"
+  },
+
+  {
+    "id": "8",
+    "name": "FHD Smart TV T5100",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/qa75qn90aauxtw/gallery/levant-neo-qled-qn90a-qa75qn90aauxtw-379600967?$684_547_PNG$",
+    "price": "92000"
+  },
+
+  {
+    "id": "9",
+    "name": "Crystal UHD 4K Smart TV AU8100",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/qa85q60aauxtw/gallery/levant-qled-q60a-373706-qa85q60aauxtw-393066954?$684_547_PNG$",
+    "price": "97000"
+  }
+]
