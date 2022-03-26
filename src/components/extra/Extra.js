@@ -9,7 +9,10 @@ const Extra = () => {
           React create a virtual dom. Virtual dom compare with actual dom and
           identify the changes. Actually it makes a dom try and then
           identify.ReactDOM in turn, recursively creates nodes depending on
-          their 'type' property and appends them finally to the DOM.
+          their 'type' property and appends them finally to the DOM.How does
+          React work in browser? React internally creates, updates, and destroys
+          instances to figure out the DOM elements tree that needs to be
+          rendered to the browser.
         </p>
       </div>
       <div>
