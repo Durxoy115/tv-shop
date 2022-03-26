@@ -25,6 +25,7 @@ const Extra = () => {
           1.State changes can be asynchronous. <br />
           2.State can be modified using this.state
         </p>
+        <h1>Thank you!!</h1>
       </div>
     </div>
   );
