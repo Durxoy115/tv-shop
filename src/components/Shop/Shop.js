@@ -24,7 +24,6 @@ const Shop = () => {
       alert("You can't chose more then four items");
     }
   };
-  const chooseAgain = () => setCart([]);
 
   return (
     <div className="shop-container">
